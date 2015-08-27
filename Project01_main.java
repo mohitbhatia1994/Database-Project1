@@ -1,6 +1,4 @@
 // Name :- Mohit Bhatia
-// For question look in Issue section
-
 package edu.buffalo.cse462;
 
 import java.sql.Connection;
